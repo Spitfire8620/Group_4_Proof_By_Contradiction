@@ -1,8 +1,49 @@
 Ex. 1:
+Prove that 173 is an odd number
 
 
 Ex. 2:
-
+Prove that 9^(1/2) is a rational number
 
 
 Walk-Through:
+Example #1
+Prove that 173 is odd.
+PROOF BY CONTRADICTION:
+Assume The Negation
+Assume 173 is even.
+
+Use The Definition of an Even Number
+Since 173 is even 173=2k where k is a whole number.
+
+Solve for K
+Therefore 173/2 = k should be true where k is a whole number.
+
+Calculate to Check
+However 173/2 =86.5 which is not a whole number.
+Therefore saying 173 is even is a contradictory statement.
+
+Conclusion
+Therefore 173 is odd.
+
+
+
+Example #2
+Prove that 9^(½)/The square root of nine is rational
+PROOF BY CONTRADICTION:
+Assume The Negation
+9^(½) is irrational
+
+Use the Definition Of an Irrational Number
+Sine 9^(½) is irrational it cannot be written as a/b where they are integers and b≠0.
+
+Rearrange To Solve 
+9^(½) = a/b → 3b=a.
+
+Use the Definition To Check
+If 9^(½) is irrational then the answer after doing the operation not be rational however 3 is rational which is contradictory.
+
+Conclusion
+Therefore saying 9^(½) is irrational is contradictory.
+
+Therefore 9(½) is rational.
