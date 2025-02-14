@@ -1,3 +1,7 @@
-Define:
-Explain What:
-Explain How:
+Define: Proof by contradiction is a method of proof where you take the opposite (negation) of what you want to prove and show that this results in 
+a contradiction and therefore the original statement must be true.
+Explain What: This method relies on the assumption that a contradiction cannot be true. If assuming the opposite of a statement leads to a contradiction,
+then the assumption must be false, meaning the original statement is true.
+Explain How: To use proof by contradiction, assume the opposite of the statement and apply logical reasoning using definitions, axioms, and theorems to explore its consequences.
+If this assumption leads to a contradiction, it must be false, proving that the original statement is true.
+
